@@ -36,7 +36,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books <a name="about-project"></a>
+# 📖 Word Guessing name <a name="about-project"></a>
 
 A website for storing and retrieving books
 
@@ -115,8 +115,11 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
+`
 cd my-folder
 git clone git@github.com:Besufekad-HAZ/word-guessing-game.git (SSH)
+
+`
 
 ### Install
 

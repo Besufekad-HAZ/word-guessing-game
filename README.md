@@ -115,21 +115,17 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`
-cd my-folder
-git clone git@github.com:Besufekad-HAZ/word-guessing-game.git (SSH)
-
-`
+`cd my-folder`
+`git clone git@github.com:Besufekad-HAZ/word-guessing-game.git (SSH)`
 
 ### Install
 
 Install this project with:
 
-npx init
+````npx init
 npm init -y
 npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
-
+npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x ```
 ### Run tests
 
 To run tests, run the following command:
@@ -148,8 +144,9 @@ Example:
 
 ```sh
 
-```
- -->
+````
+
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

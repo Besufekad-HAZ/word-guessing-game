@@ -93,7 +93,7 @@ A website for storing and retrieving books
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/Besufekad-HAZ/word-guessing-game/)
+- [Live Demo Link](https://besufekad-haz.github.io/word-guessing-game/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
